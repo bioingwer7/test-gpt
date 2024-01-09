@@ -590,7 +590,7 @@ const Chat = () => {
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
-                                <h1 className={styles.chatEmptyStateTitle}>Just start writing you question</h1>
+                                <h1 className={styles.chatEmptyStateTitle}>test 123 123 test tenant</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>Our Alliance Knowledge Bot can answer all your questions regarding pace-docs</h2>
                             </Stack>
                         ) : (
